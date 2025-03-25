@@ -5,7 +5,7 @@ AdminExFnct là một ứng dụng giao diện người dùng (GUI) được xâ
 ## I. Cài đặt
 
 ### Yêu cầu
-- Python >=3.10, <3.11
+- Python >=3.10
 - pyside6. pip install pyside6
 - Thư viện môi trường dotenv. pip install dotenv
 - MongoDB (đã cài đặt và chạy) pip install pymongo
@@ -49,11 +49,7 @@ Tạo cơ sở dữ liệu với các collection sau:
         login_window = LoginWindow()
         login_window.show()
         sys.exit(app.exec())
-- Sau đó, chạy ứng dụng bằng lệnh:
-    ```bash
-    python main.py
-### 2. Đăng nhập
-- Sử dụng username và password hợp lệ (được lưu trong collection users) và chọn role Admin hoặc User để đăng nhập vào ứng dụng.
+- Sau đó, chạyquynh123
 ### 3. Khám phá tính năng
 **ADMIN**
 - Tab Dashboard: Xem biểu đồ doanh thu, top nhà cung cấp, top sản phẩm, hoạt động gần đây, và thông tin thời tiết.
