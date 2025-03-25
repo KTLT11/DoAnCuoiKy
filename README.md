@@ -1,6 +1,6 @@
-# AdminExFnct
+# Inventory Management System
 
-AdminExFnct là một ứng dụng giao diện người dùng (GUI) được xây dựng bằng PySide6, cho phép quản lý người dùng, nhà cung cấp, sản phẩm, hóa đơn, và tạo báo cáo chi tiết. Ứng dụng tích hợp các tính năng như biểu đồ doanh thu, top nhà cung cấp/sản phẩm, và thông tin thời tiết.
+Dự án quản lý tồn kho là một ứng dụng giao diện người dùng (GUI) được xây dựng bằng PySide6, cho phép quản lý người dùng, nhà cung cấp, sản phẩm, hóa đơn, và tạo báo cáo chi tiết. Ứng dụng tích hợp các tính năng như biểu đồ doanh thu, top nhà cung cấp/sản phẩm, và thông tin thời tiết.
 
 ## I. Cài đặt
 
