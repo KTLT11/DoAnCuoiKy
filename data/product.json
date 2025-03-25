@@ -1,0 +1,102 @@
+[
+    {
+        "product_id": "P001",
+        "product_name": "Laptop Dell XPS 13",
+        "category": "Electronics",
+        "current_stock": 50,
+        "supplier_id": "S001",
+        "cost_per_unit": 1000,
+        "price_per_unit": 1200,
+        "location_number": "A1"
+    },
+    {
+        "product_id": "P002",
+        "product_name": "Smartphone Samsung Galaxy S21",
+        "category": "Electronics",
+        "current_stock": 100,
+        "supplier_id": "S004",
+        "cost_per_unit": 800,
+        "price_per_unit": 950,
+        "location_number": "A2"
+    },
+    {
+        "product_id": "P003",
+        "product_name": "Apple Iphone 12",
+        "category": "Electronics",
+        "current_stock": 75,
+        "supplier_id": "S003",
+        "cost_per_unit": 900,
+        "price_per_unit": 1100,
+        "location_number": "A3"
+    },
+    {
+        "product_id": "P004",
+        "product_name": "Bluetooth Headphones",
+        "category": "Accessories",
+        "current_stock": 200,
+        "supplier_id": "S005",
+        "cost_per_unit": 50,
+        "price_per_unit": 70,
+        "location_number": "B1"
+    },
+    {
+        "product_id": "P005",
+        "product_name": "Wireless Mouse",
+        "category": "Accessories",
+        "current_stock": 150,
+        "supplier_id": "S002",
+        "cost_per_unit": 20,
+        "price_per_unit": 30,
+        "location_number": "B2"
+    },
+    {
+        "product_id": "P006",
+        "product_name": "Mechanical Keyboard",
+        "category": "Accessories",
+        "current_stock": 100,
+        "supplier_id": "S002",
+        "cost_per_unit": 60,
+        "price_per_unit": 80,
+        "location_number": "B3"
+    },
+    {
+        "product_id": "P007",
+        "product_name": "4K Monitor",
+        "category": "Electronics",
+        "current_stock": 30,
+        "supplier_id": "S003",
+        "cost_per_unit": 300,
+        "price_per_unit": 400,
+        "location_number": "C1"
+    },
+    {
+        "product_id": "P008",
+        "product_name": "USB-C Hub",
+        "category": "Accessories",
+        "current_stock": 250,
+        "supplier_id": "S005",
+        "cost_per_unit": 25,
+        "price_per_unit": 40,
+        "location_number": "C2"
+    },
+    {
+        "product_id": "P009",
+        "product_name": "External Hard Drive",
+        "category": "Accessories",
+        "current_stock": 60,
+        "supplier_id": "S002",
+        "cost_per_unit": 100,
+        "price_per_unit": 120,
+        "location_number": "C3"
+    },
+    {
+        "product_id": "P010",
+        "product_name": "Smartwatch",
+        "category": "Electronics",
+        "current_stock": 90,
+        "supplier_id": "S004",
+        "cost_per_unit": 200,
+        "price_per_unit": 250,
+        "location_number": "D1"
+    }
+]

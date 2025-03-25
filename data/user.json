@@ -1,0 +1,37 @@
+[
+    {
+        "username": "garan",
+        "password": "garan@",
+        "role": "admin"
+    },
+    {
+        "username": "hgia",
+        "password": "royalkaka",
+        "role": "user"
+    },
+    {
+        "username": "dquynh",
+        "password": "quynh123",
+        "role": "user"
+    },
+    {
+        "username": "duyen",
+        "password": "ehe456",
+        "role": "user"
+    },
+    {
+        "username": "nkhai",
+        "password": "khai930",
+        "role": "user"
+    },
+    {
+        "username": "pninh",
+        "password": "nab@@",
+        "role": "user"
+    },
+    {
+        "username": "admin1",
+        "password": "adminpass",
+        "role": "admin"
+    }
+]

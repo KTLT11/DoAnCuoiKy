@@ -1,0 +1,7 @@
+pymongo
+PySide6
+reportlab
+matplotlib
+pandas
+python-dotenv
+requests

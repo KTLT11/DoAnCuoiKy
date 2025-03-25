@@ -1,0 +1,42 @@
+[
+    {
+        "supplier_id": "S001",
+        "supplier_name": "Tech Supply Co.",
+        "category": "Electronics",
+        "cost_per_unit": 900,
+        "contact_number": "0123456789",
+        "status": "active"
+    },
+    {
+        "supplier_id": "S002",
+        "supplier_name": "Gadget World",
+        "category": "Accessories",
+        "cost_per_unit": 50,
+        "contact_number": "0987654321",
+        "status": "active"
+    },
+    {
+        "supplier_id": "S003",
+        "supplier_name": "Tech Components",
+        "category": "Electronics",
+        "cost_per_unit": 180,
+        "contact_number": "0555123456",
+        "status": "inactive"
+    },
+    {
+        "supplier_id": "S004",
+        "supplier_name": "Smart Solutions",
+        "category": "Electronics",
+        "cost_per_unit": 850,
+        "contact_number": "0444555666",
+        "status": "inactive"
+    },
+    {
+        "supplier_id": "S005",
+        "supplier_name": "Peripheral Pros",
+        "category": "Accessories",
+        "cost_per_unit": 40,
+        "contact_number": "0777888999",
+        "status": "active"
+    }
+]
